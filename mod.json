@@ -8,7 +8,7 @@
 	},
 	"version": "v1.0.0",
 	"id": "eclipse.menu",
-	"name": "Eclipse",
+	"name": "Eclipse Menu",
 	"developers": ["Eclipse Team", "ninXout", "Prevter", "maxnu", "Firee", "SpaghettDev"],
 	"description": "Ultimate mod menu for Geometry Dash",
 	"early-load": true,
