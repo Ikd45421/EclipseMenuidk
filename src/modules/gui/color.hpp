@@ -171,7 +171,6 @@ namespace eclipse::gui {
         }
     };
 
-    void to_json(nlohmann::json &j, const Color &e);
-    void from_json(const nlohmann::json &j, Color &e);
+  
 
 }
